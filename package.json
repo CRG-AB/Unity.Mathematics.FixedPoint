@@ -15,5 +15,9 @@
     "type": "git",
     "url": "https://github.com/CRG-AB/Unity.Mathematics.FixedPoint.git",
     "revision": ""
+  },
+  "author": {
+    "name": "CRG AB",
+    "url": "https://github.com/CRG-AB"
   }
 }
