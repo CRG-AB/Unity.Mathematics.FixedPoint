@@ -1,8 +1,8 @@
 {
-  "name": "com.danielmansson.mathematics.fixedpoint",
+  "name": "com.crgab.mathematics.fixedpoint",
   "displayName": "Mathematics.FixedPoint",
-  "version": "0.1.0",
-  "unity": "2019.3",
+  "version": "0.1.1",
+  "unity": "2021.3",
   "description": "Fixed-point extension of Unity's C# math library based on FixedMath.Net and Unity.Mathematics.",
   "keywords": [
     "fixedpoint",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielmansson/Unity.Mathematics.FixedPoint",
+    "url": "https://github.com/CRG-AB/Unity.Mathematics.FixedPoint.git",
     "revision": ""
   }
 }

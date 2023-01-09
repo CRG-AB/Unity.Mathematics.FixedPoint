@@ -1,0 +1,16 @@
+{
+    "name": "Unity.Mathematics.FixedPoint.CodeGen",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0efc075be62ff074592f9ad36fcc4058"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
