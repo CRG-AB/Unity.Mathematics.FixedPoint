@@ -1,3 +1,7 @@
+# Original work
+
+This project is a fork of Daniel Månssons original implementation found [here](https://github.com/danielmansson/Unity.Mathematics.FixedPoint)
+
 # Unity.Mathematics.FixedPoint
 
 A Fixed-point extension of Unity's C# math library based on [FixedMath.Net](https://github.com/asik/FixedMath.Net) and [Unity.Mathematics](https://github.com/Unity-Technologies/Unity.Mathematics). One of the main reasons for using this library instead of the built-in one is support for cross-platform determinism, until Unity officially supports it with Burst/DOTS. 
@@ -11,7 +15,7 @@ You can use this library in your Unity game by adding this repository to the pac
 ```json
 {
   "dependencies": {
-    "com.danielmansson.mathematics.fixedpoint": "https://github.com/danielmansson/Unity.Mathematics.FixedPoint.git"
+    "com.crgab.mathematics.fixedpoint": "https://github.com/CRG-AB/Unity.Mathematics.FixedPoint.git"
   }
 }
 ```
