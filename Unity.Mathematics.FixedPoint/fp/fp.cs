@@ -1021,8 +1021,7 @@ namespace Unity.Mathematics.FixedPoint
 
         public string ToString(string format, IFormatProvider formatProvider)
         {
-            // Up to 10 decimal places
-            return ((decimal)this).ToString("0.##########", formatProvider);
+            return ((decimal)this).ToString(format, formatProvider);
         }
 
         public static fp FromRaw(long rawValue)
